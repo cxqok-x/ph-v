@@ -15,16 +15,11 @@
 
 ---
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d1e,100:00ff41&height=250&section=header&text=SYSTEM%20INITIALIZING&fontSize=45&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=ACCESS%20GRANTED%20//%20COMING%20SOON&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d1e,100:00ff41&height=150&section=header&text=SYSTEM%20INITIALIZING&fontSize=32&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=ACCESS%20GRANTED%20//%20COMING%20SOON&descAlignY=62&descSize=14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=root%40cxqok-x%3A~%24+initializing_project...;%3E+decrypting_files+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+STATUS%3A+COMING_SOON;%3E+STAY_CONNECTED_%23cxqok-x" alt="Terminal Typing"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=650&height=200&lines=root%40cxqok-x%3A~%24+connecting_to_server...;%3E+bypassing_firewall+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+scanning_ports...+OPEN%3A+22%2C80%2C443;%3E+injecting_payload...+SUCCESS;%3E+extracting_data.zip+%5B94%25%5D;%3E+STATUS%3A+COMING_SOON;%3E+FOLLOW_%40cxqok-x_FOR_UPDATES" alt="Hacker Terminal"/>
 
 <br/><br/>
 
@@ -35,16 +30,20 @@
 
 
 
-![Progress](https://img.shields.io/badge/PROGRESS-LOADING...-00ff41?style=for-the-badge&logo=terminal&logoColor=00ff41&labelColor=000000)
-
-
-
-
 ![Access](https://img.shields.io/badge/ACCESS-RESTRICTED-ff0000?style=for-the-badge&logo=hackaday&logoColor=ff0000&labelColor=000000)
 
 
 
-<br/>
+
+![Build](https://img.shields.io/badge/BUILD-IN_PROGRESS-00ff41?style=for-the-badge&logo=terminal&logoColor=00ff41&labelColor=000000)
+
+
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%5B!%5D+Simulated+phishing+detection%3A+ACTIVE;%5B!%5D+Payload+encryption%3A+AES-256;%5B!%5D+Laptop_session%3A+cxqok-x-dev+%7C+uptime+99.9%25" alt="Phishing Sim"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=3&width=100%"/>
 
