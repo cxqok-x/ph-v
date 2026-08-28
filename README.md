@@ -37,7 +37,7 @@ This platform helps security teams:
 | 🎭 **Multi-Platform Simulation** | Instagram, Facebook, Other's coming Soon..| ✅ |
 | 🤖 **AI-Powered Analytics** | Behavioral pattern detection.AI Based.| 🚧 |
 | 📱 **Responsive Design** | Mobile-optimized phishing pages | ✅ |
-| 🔔 **Real-Time Alerts** | Bot notifications. Upcoming....notifications | ✅ |
+| 🔔 **Real-Time Alerts** | Bot notifications. Upcoming.... | ✅ |
 | 🗺️ **Geo-Location Tracking** | IP-based location mapping | ✅ |
 | 🧪 **A/B Testing** | Compare campaign effectiveness | 🚧 |
 | 📊 **Dashboard Analytics** | Visual campaign statistics | ✅ |
