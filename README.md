@@ -18,9 +18,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:2c5364,100:00d4ff&height=200&section=header&text=Coming%20Soon...&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d1e,100:00ff41&height=250&section=header&text=SYSTEM%20INITIALIZING&fontSize=45&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=ACCESS%20GRANTED%20//%20COMING%20SOON&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=🚀+Something+Big+is+Coming...;⚡+Stay+Tuned+%40cxqok-x;🔮+Coming+Soon..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=root%40cxqok-x%3A~%24+initializing_project...;%3E+decrypting_files+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+STATUS%3A+COMING_SOON;%3E+STAY_CONNECTED_%23cxqok-x" alt="Terminal Typing"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%"/>
+
+<br/><br/>
+
+
+
+![Status](https://img.shields.io/badge/STATUS-ENCRYPTED-00ff41?style=for-the-badge&logo=matrix&logoColor=00ff41&labelColor=000000)
+
+
+
+
+![Progress](https://img.shields.io/badge/PROGRESS-LOADING...-00ff41?style=for-the-badge&logo=terminal&logoColor=00ff41&labelColor=000000)
+
+
+
+
+![Access](https://img.shields.io/badge/ACCESS-RESTRICTED-ff0000?style=for-the-badge&logo=hackaday&logoColor=ff0000&labelColor=000000)
+
+
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=3&width=100%"/>
 
 </div>
 
