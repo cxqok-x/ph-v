@@ -16,6 +16,13 @@
 ---
 
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:2c5364,100:00d4ff&height=200&section=header&text=Coming%20Soon...&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=🚀+Something+Big+is+Coming...;⚡+Stay+Tuned+%40cxqok-x;🔮+Coming+Soon..." alt="Typing SVG" />
+
+</div>
 
 
 ## 🎯 Mission Statement
