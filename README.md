@@ -25,7 +25,7 @@
 
 
 
-![Status](https://img.shields.io/badge/STATUS-IN PROGRESS-00ff41?style=for-the-badge&logo=matrix&logoColor=00ff41&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00ff41?style=for-the-badge&logo=matrix&logoColor=00ff41&labelColor=000000)
 
 
 
