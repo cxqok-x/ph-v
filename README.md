@@ -17,11 +17,25 @@
 
 ## 📡 Live Demo
 
+---
+### Desktop View
 <p align="center">
-  <img src="https://via.placeholder.com/800x450/0a0a0a/00ff41?text=🔴+SIMULATION+RUNNING" alt="Dashboard Preview"/>
+  <img src="https://raw.githubusercontent.com/cxqok-x/phish-sim/main/screenshots/desktop-dashboard.png" alt="Desktop Dashboard" width="90%"/>
 </p>
 
----
+### Mobile View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cxqok-x/phish-sim/main/screenshots/mobile-dashboard.png" alt="Mobile Dashboard" width="30%"/>
+  <img src="https://raw.githubusercontent.com/cxqok-x/phish-sim/main/screenshots/mobile-phishing.png" alt="Mobile Phishing" width="30%"/>
+  <img src="https://raw.githubusercontent.com/cxqok-x/phish-sim/main/screenshots/mobile-analytics.png" alt="Mobile Analytics" width="30%"/>
+</p>
+
+### Tablet View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cxqok-x/phish-sim/main/screenshots/tablet-dashboard.png" alt="Tablet Dashboard" width="70%"/>
+</p>
+
+
 
 ## 🎯 Mission Statement
 
