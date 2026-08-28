@@ -28,7 +28,7 @@
 > *"To strengthen organizational security by simulating real-world threats in a controlled, ethical environment."*
 
 This platform helps security teams:
-- 🛡️ **Identify vulnerabilities** in human security layers
+- 🛡️ **Identify vulnerabilities** in human and AI security layers
 - 📊 **Measure awareness** through realistic scenarios
 - 🚨 **Test incident response** capabilities
 - 📈 **Generate actionable insights** for training programs
@@ -39,16 +39,16 @@ This platform helps security teams:
 
 | Feature | Description | Status |
 |---------|-------------|--------|
-| 🎭 **Multi-Platform Simulation** | Instagram, Facebook, LinkedIn, Banking | ✅ |
-| 🤖 **AI-Powered Analytics** | Behavioral pattern detection | 🚧 |
+| 🎭 **Multi-Platform Simulation** | Instagram, Facebook, Other's coming Soon..| ✅ |
+| 🤖 **AI-Powered Analytics** | Behavioral pattern detection.AI Based.| 🚧 |
 | 📱 **Responsive Design** | Mobile-optimized phishing pages | ✅ |
-| 🔔 **Real-Time Alerts** | Slack/Email/SMS notifications | ✅ |
+| 🔔 **Real-Time Alerts** | Bot notifications. Upcoming....notifications | ✅ |
 | 🗺️ **Geo-Location Tracking** | IP-based location mapping | ✅ |
 | 🧪 **A/B Testing** | Compare campaign effectiveness | 🚧 |
 | 📊 **Dashboard Analytics** | Visual campaign statistics | ✅ |
-| 🔒 **Auto Data Deletion** | GDPR-compliant auto-purge | ✅ |
+| 🔒 **Auto Data Deletion** | No log files, All credentials will immediately delete. | ✅ |
 | 🎮 **Gamification** | Security awareness scoring | 🚧 |
-| 🌐 **Multi-Language** | 10+ language support | 🚧 |
+| 🌐 **Multi-Language** | 5+ language support | 🚧 |
 
 ---
 
