@@ -1,14 +1,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Flask-2.0%2B-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <b>🔐 Next-Generation Phishing Simulation & Security Training Platform</b><br/>
   <i>For Authorized Security Professionals & Ethical Researchers Only</i>
 </p>
