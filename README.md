@@ -9,11 +9,7 @@
 
 <br/><br/>
 
-![Status](https://img.shields.io/badge/STATUS-BUILDING-00ff41?style=for-the-badge&logo=matrix&logoColor=00ff41&labelColor=000000)
-![Access](https://img.shields.io/badge/ACCESS-RESTRICTED-ff0000?style=for-the-badge&logo=hackaday&logoColor=ff0000&labelColor=000000)
-![Build](https://img.shields.io/badge/BUILD-IN_PROGRESS-00ff41?style=for-the-badge&logo=terminal&logoColor=00ff41&labelColor=000000)
 
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=3&width=100%"/>
 
