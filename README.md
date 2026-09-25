@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <b>🔐 Next-Generation Phishing Simulation & Security Training Platform</b><br/>
   <i>For Authorized Security Professionals & Ethical Researchers Only</i>
@@ -15,29 +13,31 @@
 
 <br/><br/>
 
-
-
 ![Status](https://img.shields.io/badge/STATUS-BUILDING-00ff41?style=for-the-badge&logo=matrix&logoColor=00ff41&labelColor=000000)
-
-
-
-
 ![Access](https://img.shields.io/badge/ACCESS-RESTRICTED-ff0000?style=for-the-badge&logo=hackaday&logoColor=ff0000&labelColor=000000)
-
-
-
-
 ![Build](https://img.shields.io/badge/BUILD-IN_PROGRESS-00ff41?style=for-the-badge&logo=terminal&logoColor=00ff41&labelColor=000000)
 
-
-
 <br/><br/>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=3&width=100%"/>
 
 </div>
 
+---
+
+## 🎥 Project Current Preview
+
+<div align="center">
+
+<img src="assets/demo.gif" alt="Platform Demo" width="90%" style="border-radius: 10px; border: 2px solid #00ff41;"/>
+
+<br/><br/>
+
+**⚡ Watch the progress in action —**
+
+</div>
+
+---
 
 ## 🎯 Mission Statement
 
@@ -56,7 +56,7 @@ This platform helps security teams:
 | Feature | Description | Status |
 |---------|-------------|--------|
 | 🎭 **Multi-Platform Simulation** | Instagram, Facebook, Other's coming Soon..| ✅ |
-| 🤖 **AI-Powered Analytics** | Behavioral pattern detection.AI Based.| 🚧 |
+| 🤖 **AI-Powered Analytics** | Behavioral pattern detection. AI Based. | 🚧 |
 | 📱 **Responsive Design** | Mobile-optimized phishing pages | ✅ |
 | 🔔 **Real-Time Alerts** | Bot notifications. Upcoming.... | ✅ |
 | 🗺️ **Geo-Location Tracking** | IP-based location mapping | ✅ |
@@ -81,3 +81,34 @@ graph TD
     H[Admin Dashboard] -->|View Logs| D
     H -->|Configure| I[Campaign Settings]
     J[Auto-Cleanup] -->|Delete Logs| D
+```
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+| Dashboard | Simulation Page |
+|:---------:|:---------------:|
+| <img src="assets/dashboard.png" width="400"/> | <img src="assets/simulation.png" width="400"/> |
+
+</div>
+
+---
+
+## ⚠️ Legal Disclaimer
+
+> **This tool is intended for authorized security testing only.**
+> Unauthorized use against systems you do not own or have written permission to test is **illegal** and strictly prohibited.
+> The developers assume **no liability** for misuse.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0f3d1e,100:000000&height=100&section=footer"/>
+
+**⭐ Star this repo if you find it useful!**
+
+</div>
