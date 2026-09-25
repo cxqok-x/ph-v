@@ -1,15 +1,11 @@
 <p align="center">
   <b>🔐 Next-Generation Phishing Simulation & Security Training Platform</b><br/>
-  <i>For Authorized Security Professionals & Ethical Researchers Only</i>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d1e,100:00ff41&height=150&section=header&text=COMING%20SOON...&fontSize=32&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=ACCESS%20DENIED%20//%20COMING%20SOON&descAlignY=62&descSize=14" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=650&height=200&lines=root%40cxqok-x%3A~%24+connecting_to_server...;%3E+bypassing_firewall+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+scanning_ports...+OPEN%3A+22%2C80%2C443;%3E+injecting_payload...+SUCCESS;%3E+extracting_data.zip+%5B94%25%5D;%3E+STATUS%3A+COMING_SOON;%3E+FOLLOW_%40cxqok-x_FOR_UPDATES" alt="Hacker Terminal"/>
 
 <br/><br/>
 
