@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="assets/demo.gif" alt="Platform Demo" width="90%" style="border-radius: 10px; border: 2px solid #00ff41;"/>
+<img src="assests/demo.gif" alt="Platform Demo" width="90%" style="border-radius: 10px; border: 2px solid #00ff41;"/>
 
 <br/><br/>
 
@@ -83,27 +83,6 @@ graph TD
     J[Auto-Cleanup] -->|Delete Logs| D
 ```
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-| Dashboard | Simulation Page |
-|:---------:|:---------------:|
-| <img src="assets/dashboard.png" width="400"/> | <img src="assets/simulation.png" width="400"/> |
-
-</div>
-
----
-
-## ⚠️ Legal Disclaimer
-
-> **This tool is intended for authorized security testing only.**
-> Unauthorized use against systems you do not own or have written permission to test is **illegal** and strictly prohibited.
-> The developers assume **no liability** for misuse.
-
----
 
 <div align="center">
 
